@@ -59,3 +59,5 @@ Este Poyecto demuestra la implementación de dos modelos de machine learning: XG
 ### *Preparación de los Datos de Prueba:*
 
 - Se procesan las características numéricas en el conjunto de datos de prueba de manera similar a los datos de entrenamiento.
+
+Este modelo fue obtenido de una de las contribuciones realizadas a la competencia de Kaggle [Kidney Stone Prediction based on Urine Analysis](https://www.kaggle.com/datasets/vuppalaadithyasairam/kidney-stone-prediction-based-on-urine-analysis)
