@@ -2,7 +2,7 @@
 
 En el presente repositorio encontraras las fases que se llevaran a cabo para la construcción y ejecucion del proyecto.
 
-En la carpeta llamada Fase-1 encontraras los archivos utilizados en el proyecto, asi como un archivo llamdo README.md con las instrucciones especificas de como ejecutarlo correctamnete.
+En la carpeta llamada Fase-1 encontraras los archivos utilizados en el proyecto, asi como un archivo llamado README.md con las instrucciones especificas de como ejecutarlo correctamnete.
 
 # *Contextualización y Descripción:*
 
