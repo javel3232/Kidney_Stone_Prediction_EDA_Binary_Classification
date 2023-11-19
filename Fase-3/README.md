@@ -38,7 +38,7 @@ Empezaremos con la prueba de prediccion; Para esto utilizaremos la ruta **http:/
 ![run scripts manually](https://user-images.githubusercontent.com/15114373/284045828-470b8444-1950-4eef-bc26-8abd1d092cfd.png)
 
 Luego le damos al boton **Send**.
-Y nos mostrala el resultado en de la predicion, en este caso nos muestra un **1** indicandonos que con esos datos la persona posee calculo renal.
+Y nos mostrara el resultado en de la prediccion, en este caso nos muestra un **1** indicandonos que con esos datos la persona posee calculo renal.
 
 ![run scripts manually](https://user-images.githubusercontent.com/15114373/284045829-75585881-0adc-4ffa-9c6a-b53fc5980c80.png)
 
