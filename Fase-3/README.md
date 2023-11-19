@@ -8,7 +8,7 @@
 
 ![run scripts manually](https://user-images.githubusercontent.com/15114373/284045818-135ef85a-0732-4b2e-a034-ecd158d03376.png)
 
-**3**.Una ves estando en el proyecto abrimos una terminal y ejecutamos el siguiente comando: **docker-compose up --build** ,este comando se utiliza para construir y levantar los servicios definidos en el archivo **docker-compose.yml** que se encuentra en el proyecto,este comando es útil cuando queremos realizar cambios en el código fuente o en la configuración del contenedor sin tener que volver a crear la imagen,en caso de realizar un cambio simplemete ejecutamos **docker-compose up** para levantar el servicio de nuevo, ya que asegura que las imágenes se reconstruyan antes de iniciar los servicios.
+**3**. Una ves estando en el proyecto abrimos una terminal y ejecutamos el siguiente comando: **docker-compose up --build** ,este comando se utiliza para construir y levantar los servicios definidos en el archivo **docker-compose.yml** que se encuentra en el proyecto,este comando es útil cuando queremos realizar cambios en el código fuente o en la configuración del contenedor sin tener que volver a crear la imagen,en caso de realizar un cambio simplemete ejecutamos **docker-compose up** para levantar el servicio de nuevo, ya que asegura que las imágenes se reconstruyan antes de iniciar los servicios.
 
 ![run scripts manually](https://user-images.githubusercontent.com/15114373/284045820-8350ee61-0b9c-4639-b7aa-16e16aa5aa3b.png)
 
@@ -20,7 +20,7 @@ y verificamos que en el el Docker Desktop  el contenedor fase_3 se encuentre cor
 
 ![run scripts manually](https://user-images.githubusercontent.com/15114373/284045827-8869ac6a-b92f-4379-a77a-032ed0207b50.png)
 
-**5**.Una ves todo este funcionando correctamente, pasamos hacer las pruebas de los servicios de nuestra API.
+**5**. Una ves todo este funcionando correctamente, pasamos hacer las pruebas de los servicios de nuestra API.
 En este caso usaremos la herraminta PostMan para consumir nuestra API.
 Empezaremos con la prueba de prediccion; Para esto utilizaremos la ruta **http://localhost:8000/predict/** , que pondremos en en el postman usando el metodo **POST**,y luego nos vamos a la pestalla que dice **Body** y luego en **raw** y seleccionamos la opcion de **JSON** y ponemos los datos para hacer la predicion:
 
