@@ -22,7 +22,7 @@ y verificamos que en el el Docker Desktop  el contenedor fase_3 se encuentre cor
 
 **5**. Una ves todo este funcionando correctamente, pasamos hacer las pruebas de los servicios de nuestra API.
 En este caso usaremos la herraminta PostMan para consumir nuestra API.
-Empezaremos con la prueba de prediccion; Para esto utilizaremos la ruta **http://localhost:8000/predict/** , que pondremos en en el postman usando el metodo **POST**,y luego nos vamos a la pestalla que dice **Body** y luego en **raw** y seleccionamos la opcion de **JSON** y ponemos los datos para hacer la predicion:
+Empezaremos con la prueba de prediccion; Para esto utilizaremos la ruta **http://localhost:8000/predict/** , que pondremos en en el postman usando el metodo **POST**,y luego nos vamos a la pestaña que dice **Body** y luego en **raw** y seleccionamos la opcion de **JSON** y ponemos los datos para hacer la predicion:
 
 **{**
 
